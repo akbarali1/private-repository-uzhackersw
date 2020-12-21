@@ -1,0 +1,1 @@
+[Bu repository yaratilganligigha sabab](https://uzhackersw.uz/blog/github-orqali-kodlashni-osonlashtirsh-open-serverdagi-saytni-hostingga-github-orqali-yuklash.html)
