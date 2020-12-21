@@ -1,1 +1,0 @@
-# private-repository-uzhackersw
